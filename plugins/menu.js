@@ -267,7 +267,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	{title: `🛠️ ${pmenus}  𐐪-〚 tools 〛-𐑂`, rowId: ".? tools", description: "╰► Mungkin tools ini bisa membantu?"},
 	{title: `ℹ️ ${pmenus}  𐐪-〚 Info 〛-𐑂`, rowId: ".? info", description: "╰► Info info BOT"},
 	{title: `👩‍💻 ${pmenus}  𐐪-〚 owner 〛-𐑂`, rowId: ".? owner", description: "╰► Owner Only!"},
-	{title: `❓ ${pmenus}  𐐪-〚 No katogori 〛-𐑂`, rowId: ".? nocategory", description: "╰► Fitur tanpa kategory!"},
+
 	]
   },
 ]
